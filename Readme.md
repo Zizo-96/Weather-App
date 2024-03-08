@@ -1,1 +1,1 @@
-Init
+This is a simple Web Application using Weather API to check real-time weather changes by writing city name.
